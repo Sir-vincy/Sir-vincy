@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sir-vincy
-- 👀 I’m interested in engineering and designs, vfx and video-editing, modelling and so many thing 
-- - 🌱 I’m currently learning blender, adobe primiere, photoshop
+- 👀 I’m interested in engineering and designs, vfx and video-editing, modelling and so many thing
   
 
 <!---
